@@ -1,0 +1,27 @@
+{
+  "parent": "inbetween",
+  "display":{
+    "icon":{
+      "id": "oak_sapling"
+    },
+    "background": "dirt",
+    "title": "Beginnings",
+    "description": "Gather a sapling by killing creepers",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{
+          "items": "oak_sapling"
+        }]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 4
+  }
+}
+  

@@ -1,0 +1,21 @@
+{
+  "display":{
+    "icon":{
+      "id": "grass_block"
+    },
+    "background": "dirt",
+    "title": "Arrival",
+    "description": "Arrive at the inbetween",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "function": "minecraft:spawn"
+  }
+}
+  
