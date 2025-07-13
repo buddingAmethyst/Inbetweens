@@ -1,10 +1,14 @@
 {
   "display":{
     "icon":{
-      "id": "grass_block"
+      "id": "grass_block",
+      "count": 1,
+      "components": {
+        
+      }
     },
     "background": "minecraft:block/deepslate",
-    "title": "Arrival",
+    "title": "Inbetween",
     "description": "Arrive at the inbetween",
     "show_toast": false,
     "announce_to_chat": false

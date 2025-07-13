@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": "#minecraft:leaves",
+    "cookingtime": 500,
+    "result": {
+        "id": "minecraft:paper"
+    },
+    "experience": 4
+}
