@@ -3,7 +3,7 @@
     "icon":{
       "id": "grass_block"
     },
-    "background": "dirt",
+    "background": "minecraft:block/deepslate",
     "title": "Arrival",
     "description": "Arrive at the inbetween",
     "show_toast": false,

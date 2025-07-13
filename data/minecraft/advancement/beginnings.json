@@ -6,9 +6,10 @@
     },
     "background": "dirt",
     "title": "Beginnings",
-    "description": "Gather a sapling by killing creepers",
+    "description": "Get a sapling by breaking leaves from creepers",
     "show_toast": true,
-    "announce_to_chat": true
+    "announce_to_chat": true,
+    "frame": task
   },
   "criteria": {
     "requirement": {

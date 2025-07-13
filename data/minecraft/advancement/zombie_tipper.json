@@ -1,0 +1,33 @@
+{
+  "parent": "beginnings",
+  "criteria": {
+    "leather": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "Smelt Rotten flesh to obtain some leather"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:leather"
+    },
+    "title": {
+      "translate": "Zombie tipper"
+    }
+  },
+  "requirements": [
+    [
+      "leather"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
