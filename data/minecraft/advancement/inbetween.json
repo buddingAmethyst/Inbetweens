@@ -7,7 +7,7 @@
         
       }
     },
-    "background": "minecraft:block/deepslate",
+    "background": "minecraft:item/leather_chestplate_overlay",
     "title": "Inbetween",
     "description": "Arrive at the inbetween",
     "show_toast": false,
