@@ -1,11 +1,11 @@
 {
   "parent": "beginnings",
   "criteria": {
-    "leather": {
+    "paper": {
       "conditions": {
         "items": [
           {
-            "items": "minecraft:leather"
+            "items": "minecraft:paper"
           }
         ]
       },
@@ -14,19 +14,19 @@
   },
   "display": {
     "description": {
-      "translate": "Smelt Rotten flesh to obtain some leather"
+      "translate": "Heat some leaves in a campfire to make paper"
     },
     "icon": {
       "count": 1,
-      "id": "minecraft:leather"
+      "id": "minecraft:paper"
     },
     "title": {
-      "translate": "Zombie Tipper"
+      "translate": "Papers Please"
     }
   },
   "requirements": [
     [
-      "leather"
+      "paper"
     ]
   ],
   "sends_telemetry_event": true
