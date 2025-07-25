@@ -16,7 +16,17 @@
     "music_volume": 1.0,
     "sky_color": 8103167,
     "water_color": 4159204,
-    "water_fog_color": 329011
+    "water_fog_color": 329011,
+    "particle": {
+      "probability": 0.00025,
+      "options": {
+        "type": "dust_color_transition",
+        "from_color": 2698817,
+        "to_color": 9883085,
+        "scale": 2
+      }
+
+    }
   },
   "features": [
     [],
